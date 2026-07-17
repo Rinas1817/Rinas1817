@@ -1,52 +1,50 @@
-# 👋 Hi, I'm Mohamed Rinas  
+# Hi, I'm Mohamed Rilvan Rinas 👋
 
-🚀 **Full Stack Developer | AI Enthusiast | Problem Solver**  
+**Full-Stack Developer (MERN) · Final-Year CS Engineering Student · Building at [Astruxio](https://astruxio.in)**
 
-I love building modern, scalable applications that blend **creativity, AI, and full-stack development**.  
-Currently working on **HotSpot MensWear**, an e-commerce platform, and exploring **AI-powered applications**.  
-
----
-
-## 🛠️ Tech Stack
-💻 **Languages:** JavaScript, TypeScript, Python, Java, C++  
-⚡ **Frontend:** React, Next.js, Tailwind CSS, Vite  
-🗄️ **Backend & DB:** Node.js, Firebase, Supabase, Express.js  
-🤖 **AI & Data:** OpenAI API, LangChain, TensorFlow, NLP  
-☁️ **Tools & DevOps:** Git, GitHub, Docker, Vercel, Netlify  
+I build full-stack products end-to-end — from client requirements to production deployment — and I'm expanding into applied AI/agentic tooling using LangChain and LLM APIs.
 
 ---
 
-## 🌟 Highlight Projects
-📌 Here are some of my top projects (check pinned repos 👇):  
+## 🔨 Currently building
 
-- 🛒 **[HotSpot MensWear](#)** – Full-stack E-commerce platform with payments, wishlist & admin dashboard.  
-- 🤖 **[AI Meeting Summarizer](#)** – AI-powered tool that converts meetings into structured summaries.  
-- 📄 **[AI Resume Analyzer](#)** – ATS-friendly resume checker with AI-based skill suggestions.  
-- 👕 **[AI Fashion Recommender](#)** – Suggests personalized outfits using AI & e-commerce integration.  
+- **HotSpot MensWear** — live e-commerce platform for a menswear retail client, built and shipped under Astruxio → [hotspotdindigul.in](https://hotspotdindigul.in)
+- Sharpening data/full-stack skills through a MERN Stack program at Besant Technologies
+- Taking on freelance web + AI projects through Astruxio
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs" height="160"/>
-</p>
+## 🧰 Tech I work with
+
+**Languages:** JavaScript, TypeScript, Python, Java
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express, Firebase, Supabase
+**AI/Agentic:** LangChain, OpenAI / Gemini / Groq APIs, Whisper
+**Tools:** Git, Docker, Vercel
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-rilvan-rinas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rilvanrinas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" />
-  </a>
-</p>
+## 📌 Featured projects
+
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| **HotSpot MensWear** | Full e-commerce platform live for a real retail client — product catalog, cart, admin dashboard | React, Node.js, MongoDB | [Live site](https://hotspotdindigul.in) |
+| **AI Meeting Summarizer** | Converts meeting audio into structured, actionable summaries. Deployed with a resilient pipeline handling long-audio transcription | Whisper, Groq (Llama 3.1), Streamlit, Docker, Supabase | *[add HF Spaces link]* |
+| **Personal Email Agent** | LLM agent that drafts and triages email using LangChain | LangChain, Gemini API | *[add repo link]* |
+| **Advocate Portfolio** | Professional site for a legal aid center | React, TypeScript | *[add repo/live link]* |
+
+*(Replace the bracketed placeholders above with your real links before publishing — see the note at the end of this message.)*
 
 ---
 
-✨ *“Code is like art – the cleaner it is, the louder it speaks.”* ✨
+## 🎓 Certifications
+
+AI & Data Science (GUVI) · IR 4.0 (IBM/Microsoft TechSaksham) · Java Elite & Silver (NPTEL/IIT) · Blockchain Applications (NPTEL/IIT)
+
+📄 Published paper (JAAFR journal) on the **EmpowHer** project
+
+---
+
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/mohamed-rilvan-rinas) · [Astruxio](https://astruxio.in) · rilvanrinas@gmail.com
