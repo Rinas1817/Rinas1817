@@ -29,11 +29,11 @@ I build full-stack products end-to-end — from client requirements to productio
 | Project | What it does | Stack | Link |
 |---|---|---|---|
 | **HotSpot MensWear** | Full e-commerce platform live for a real retail client — product catalog, cart, admin dashboard | React, Node.js, MongoDB | [Live site](https://hotspotdindigul.in) |
-| **AI Meeting Summarizer** | Converts meeting audio into structured, actionable summaries. Deployed with a resilient pipeline handling long-audio transcription | Whisper, Groq (Llama 3.1), Streamlit, Docker, Supabase | *[add HF Spaces link]* |
+| **AI Meeting Summarizer** | Converts meeting audio into structured, actionable summaries. Deployed with a resilient pipeline handling long-audio transcription | Whisper, Groq (Llama 3.1), Streamlit, Docker, Supabase |[Live site](https://huggingface.co/spaces/mohamed786/ai-meeting-summarizer)  |
 | **Personal Email Agent** | LLM agent that drafts and triages email using LangChain | LangChain, Gemini API | *[add repo link]* |
 | **Advocate Portfolio** | Professional site for a legal aid center | React, TypeScript | *[add repo/live link]* |
 
-*(Replace the bracketed placeholders above with your real links before publishing — see the note at the end of this message.)*
+
 
 ---
 
@@ -41,7 +41,7 @@ I build full-stack products end-to-end — from client requirements to productio
 
 AI & Data Science (GUVI) · IR 4.0 (IBM/Microsoft TechSaksham) · Java Elite & Silver (NPTEL/IIT) · Blockchain Applications (NPTEL/IIT)
 
-📄 Published paper (JAAFR journal) on the **EmpowHer** project
+📄 Published paper (JAAFR journal) on the **EmpowHer** project   Paper --   https://drive.google.com/file/d/1K9Xx-yAmGMAt82DU370HJQ_CznMRdi6F/view?usp=sharing    , Certificate -- https://drive.google.com/file/d/1tKVMgmucc4OOWGMZ9wyyOMnkiQgKXJBS/view?usp=sharing
 
 ---
 
