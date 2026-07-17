@@ -30,8 +30,8 @@ I build full-stack products end-to-end — from client requirements to productio
 |---|---|---|---|
 | **HotSpot MensWear** | Full e-commerce platform live for a real retail client — product catalog, cart, admin dashboard | React, Node.js, MongoDB | [Live site](https://hotspotdindigul.in) |
 | **AI Meeting Summarizer** | Converts meeting audio into structured, actionable summaries. Deployed with a resilient pipeline handling long-audio transcription | Whisper, Groq (Llama 3.1), Streamlit, Docker, Supabase |[Live site](https://huggingface.co/spaces/mohamed786/ai-meeting-summarizer)  |
-| **Personal Email Agent** | LLM agent that drafts and triages email using LangChain | LangChain, Gemini API | *[add repo link]* |
-| **Advocate Portfolio** | Professional site for a legal aid center | React, TypeScript | *[add repo/live link]* |
+| **Personal Email Agent** | LLM agent that drafts and triages email using LangChain | LangChain, Gemini API | ** |
+| **Advocate Portfolio** | Professional site for a legal aid center | React, TypeScript | ** |
 
 
 
