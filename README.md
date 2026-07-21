@@ -87,8 +87,8 @@ I enjoy transforming ideas into production-ready applications using modern web t
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 |**HotSpot MensWear** | Production-ready e-commerce platform built for a real retail client with authentication, shopping cart, admin dashboard and Razorpay integration. | React • TypeScript • Firebase • Supabase • Tailwind CSS | 🌐 [Live](https://hotspotdindigul.in)|
-|**AI Meeting Summarizer** | AI-powered meeting transcription and summarization with action-item extraction using LLMs. | Python • Whisper • Groq • Streamlit • Docker • Supabase |🌐 [Live]([https://advocate-portf.netlify.app](https://huggingface.co/spaces/mohamed786/ai-meeting-summarizer))|
-|**AI Email Assistant** | Intelligent email assistant for drafting, summarizing and categorizing emails using LangChain. | Python • LangChain • Gemini API | 💻 Repository |
+|**AI Meeting Summarizer** | AI-powered meeting transcription and summarization with action-item extraction using LLMs. | Python • Whisper • Groq • Streamlit • Docker • Supabase |🌐 [Live](https://huggingface.co/spaces/mohamed786/ai-meeting-summarizer)|
+|**AI Email Assistant** | Intelligent email assistant for drafting, summarizing and categorizing emails using LangChain. | Python • LangChain • Gemini API | Repository |
 |**Advocate Portfolio** | Professional website developed for Keethukottai Legal Aid Centre. | React • TypeScript • Tailwind CSS | 🌐 [Live](https://advocate-portf.netlify.app)|
 
 ---
@@ -165,19 +165,19 @@ https://drive.google.com/file/d/1tKVMgmucc4OOWGMZ9wyyOMnkiQgKXJBS/view
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-rilvan-rinas">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rilvanrinas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rinas1817">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://mohamed-rinas.netlify.app>
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://mohamed-rinas.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
