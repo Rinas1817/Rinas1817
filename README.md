@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Mohamed Rilvan Rinas
+# Hi 👋 I'm Mohamed Rilvan Rinas
 
 ### Full-Stack Developer • AI Engineer • Computer Science Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Engineer;MERN+Stack+Developer;Building+Real-World+Software;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Engineer;MERN+Stack+Developer;Building+Production+Ready+Applications;Passionate+about+AI+%26+Modern+Web+Development" />
+
+<br>
 
 <p>
-Building scalable web applications, AI-powered solutions, and modern software products.
+Building scalable web applications, AI-powered products and modern software solutions.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rinas1817&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Rinas1817&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -18,77 +20,65 @@ Building scalable web applications, AI-powered solutions, and modern software pr
 
 # 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **Computer Science Engineering graduate** who enjoys building modern, scalable, and production-ready software.
+I'm a passionate **Full-Stack Developer** and **Computer Science Engineering graduate** who enjoys building modern, scalable and production-ready applications.
 
-I have experience delivering **real-world client projects**, developing **AI-powered applications**, and integrating **Large Language Models (LLMs)** into practical solutions.
+I have experience developing **real-world client projects**, **AI-powered applications**, and integrating **Large Language Models (LLMs)** into practical software solutions.
 
-Currently, I'm expanding my expertise in:
-
-- 🤖 Agentic AI
-- 🧠 LangChain
-- 🚀 Modern Full-Stack Development
-- ☁️ Cloud Deployment
-- ⚡ AI Automation
-
-I enjoy transforming ideas into products—from planning and UI/UX to backend architecture, deployment, and maintenance.
+Currently, I'm building products through **Astruxio**, while continuously learning advanced software engineering, AI systems and cloud technologies.
 
 ---
 
-# 🌱 Currently Working On
+## Currently Exploring
 
-- 🛒 Production-ready Full-Stack Applications
-- 🤖 AI-powered Productivity Tools
-- 🧠 Agentic AI Applications
-- 💼 Freelance Projects through **Astruxio**
-- 📚 Advanced Next.js & AI Development
+- 🤖 Agentic AI
+- 🧠 LangChain
+- ⚡ MCP
+- ☁️ Cloud Deployment
+- 🚀 Next.js
+- 🏗️ System Design
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
----
+### Backend
 
-## Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+### Databases & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
----
-
-## AI & Machine Learning
+### AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Machine learning](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![RAG](https://img.shields.io/badge/OpenAI%20Whisper-black?style=for-the-badge)
 
----
-
-## Tools & Platforms
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -96,49 +86,52 @@ I enjoy transforming ideas into products—from planning and UI/UX to backend ar
 
 ## 🛒 HotSpot MensWear
 
-A production-ready e-commerce platform developed for a real menswear retail client.
+A complete production-ready e-commerce platform developed for a real retail client.
 
-### Features
+### Highlights
 
 - Product Catalog
-- Shopping Cart
 - Authentication
+- Shopping Cart
 - Admin Dashboard
 - Razorpay Integration
-- Order Management
-- Responsive Design
+- Responsive UI
+- Firebase Authentication
+- Supabase Backend
 
 **Tech Stack**
 
-React • TypeScript • Firebase • Supabase • Tailwind CSS
+React • TypeScript • Tailwind CSS • Firebase • Supabase
 
-[![Live Website](https://img.shields.io/badge/🌐_Live_Website-hotspotdindigul.in-success?style=for-the-badge)](https://hotspotdindigul.in)
+### Live Demo
+
+https://hotspotdindigul.in
 
 ---
 
 ## 🤖 AI Meeting Summarizer
 
-AI-powered application that converts meeting recordings into structured summaries using Large Language Models.
+An AI application that converts meeting recordings into structured summaries using Large Language Models.
 
 ### Features
 
-- Speech-to-Text
-- AI Summarization
+- Audio Transcription
+- AI Summary
 - Action Items
-- Long Audio Support
+- Long Audio Processing
 - Docker Deployment
 
-**Tech Stack**
+**Stack**
 
-Whisper • Groq Llama 3.1 • Streamlit • Docker • Supabase
+Whisper • Groq Llama • Streamlit • Docker • Supabase
 
 ---
 
 ## 📧 AI Email Assistant
 
-Intelligent email assistant built using LangChain capable of summarizing, drafting and categorizing emails.
+An intelligent email assistant capable of drafting, categorizing and summarizing emails.
 
-**Tech Stack**
+**Stack**
 
 LangChain • Gemini API • Python
 
@@ -146,87 +139,80 @@ LangChain • Gemini API • Python
 
 ## ⚖️ Advocate Portfolio
 
-Professional website for **Keethukottai Legal Aid Centre**.
+Professional website built for **Keethukottai Legal Aid Centre**.
 
-**Tech Stack**
+**Stack**
 
 React • TypeScript • Tailwind CSS
 
+### Live Demo
+
+https://advocate-portf.netlify.app
+
+
 ---
 
-# 📚 Research Publication
+#  Research Publication
 
-## 📝 EmpowHer: A Multimodal Digital Guardian for Women's Safety
+## 📝 EmpowHer – A Multimodal Digital Guardian for Women's Safety
 
-📖 **Published in the Journal of Advance and Future Research (JAAFR)**
+📖 Published in the **Journal of Advance and Future Research (JAAFR)**
 
-The research introduces an AI-enabled women's safety platform integrating:
+### Research Focus
 
-- 🚨 Smart Emergency SOS
-- 📍 Live GPS Tracking
-- 🎙 Voice Activation
-- 📷 AI-based Evidence Collection
-- ☁ Secure Cloud Storage
-- 🤖 Intelligent Threat Detection
-- 📱 Mobile Safety Application
+- Emergency SOS
+- Live GPS Tracking
+- Voice Activation
+- AI-powered Threat Detection
+- Secure Cloud Storage
+- Evidence Collection
+- Smart Women's Safety Platform
 
-### 📄 Publication
+### Publication
 
-[![Research Paper](https://img.shields.io/badge/📄_Research_Paper-JAAFR-blue?style=for-the-badge)](https://drive.google.com/file/d/1K9Xx-yAmGMAt82DU370HJQ_CznMRdi6F/view)
+📄 Research Paper
 
-[![Publication_Certificate](https://img.shields.io/badge/🏅_Publication_Certificate-success?style=for-the-badge)](https://drive.google.com/file/d/1tKVMgmucc4OOWGMZ9wyyOMnkiQgKXJBS/view)
+https://drive.google.com/file/d/1K9Xx-yAmGMAt82DU370HJQ_CznMRdi6F/view
+
+🏆 Publication Certificate
+
+https://drive.google.com/file/d/1tKVMgmucc4OOWGMZ9wyyOMnkiQgKXJBS/view
 
 ---
 
 # 🏆 Certifications
 
-- 🎓 AI & Data Science – GUVI
-- 🎓 Industrial Revolution 4.0 – IBM TechSaksham
-- 🎓 Java Elite – NPTEL
-- 🎓 Java Silver – NPTEL
-- 🎓 Blockchain Applications – NPTEL
+- AI & Data Science – GUVI
+- IBM & Microsoft TechSaksham – IR 4.0
+- Java Elite – NPTEL
+- Java Silver – NPTEL
+- Blockchain Applications – NPTEL
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rinas1817&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinas1817&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rinas1817&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 💡 Areas of Interest
+# 🎯 What I'm Interested In
 
 - Full-Stack Development
 - Artificial Intelligence
 - Agentic AI
-- SaaS Products
+- SaaS Applications
 - Cloud Computing
-- System Design
 - Automation
+- System Design
 - Open Source
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohamed-rilvan-rinas">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rilvanrinas@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Rinas1817">
@@ -234,16 +220,16 @@ The research introduces an AI-enabled women's safety platform integrating:
 </a>
 
 <a href="https://hotspotdindigul.in">
-<img src="https://img.shields.io/badge/Live_Project-HotSpot_MensWear-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💭 Favorite Quote
+# 💭 Quote
 
-> **"Building software isn't just about writing code—it's about solving real problems with creativity and technology."**
+> **"Technology becomes meaningful when it solves real-world problems and creates positive impact."**
 
 ---
 
@@ -253,6 +239,8 @@ The research introduces an AI-enabled women's safety platform integrating:
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-Let's build something amazing together! 🚀
+Let's build something amazing together 🚀
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer"/>
